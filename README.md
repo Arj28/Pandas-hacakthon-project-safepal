@@ -20,7 +20,7 @@ During emergencies or emotional stress, people often don’t know where to turn.
 - Random, datetime, OS (standard libraries)
 
 ## 🎬 Demo Video
-[![Watch the demo](https://youtu.be/iCVzjmPaR_s)
+[![Watch the demo]https://youtu.be/iCVzjmPaR_s?si=2zA5DkAYMKVLzNwH
 
 
 ## 🚧 Challenges
